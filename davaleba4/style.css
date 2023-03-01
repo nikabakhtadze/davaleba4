@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+}
+.container1{
+    position:relative;
+    top:41px;
+    width:562px;
+    height:718px;
+    background-color:#FAFAFA;
+    border: 1px  solid #DCDCDC;
+}
+.container2>img{
+    position:absolute;
+    left:201px;
+    top:97px;
+    width:159px;
+    height:146px;
+}
+.container3{
+    position:absolute;
+    width:100%;
+    top:310px;
+}
+.container4{
+    position:absolute;
+    text-align:center;
+    top:409px;
+    padding-left:43px;
+    padding-right:43px;
+    color:#000000;
+}
